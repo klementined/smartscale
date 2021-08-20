@@ -1,5 +1,6 @@
 # smartscale
 Smartscale is used to change the aspect ratio of an image
+
 the aspect ratio will change but none of the important details will be deleted from the image
 
 1. Download the code 
